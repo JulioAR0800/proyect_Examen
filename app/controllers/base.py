@@ -10,3 +10,4 @@ def inicio():
         return redirect('/login')
 
     return render_template('inicio.html')
+
